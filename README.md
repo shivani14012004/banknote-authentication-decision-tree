@@ -549,7 +549,7 @@ git push -u origin main
 
 ## 👩‍💻 Author
 
-**Shivani**
+**Shivani Patil**
 
 ### Machine Learning Project
 
