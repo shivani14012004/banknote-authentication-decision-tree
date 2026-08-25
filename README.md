@@ -19,7 +19,7 @@ The final trained model was saved using Pickle and integrated into a **Streamlit
 
 Click the screenshot below to open the full-size image.
 
-[![Banknote Authentication Streamlit Application](Screenshot/Screenshot.png)](Screenshot/Screenshot.png)
+[![Banknote Authentication Streamlit Application](Screenshot/app.dt.png.png)](Screenshot/app.dt.png.png)
 
 ---
 
